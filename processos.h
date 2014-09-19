@@ -8,7 +8,9 @@
 
 int Pid = 0;
 
-
+/*
+hu3hu3hu3hu3hu3hu3hu3hu3hu3hu3hu3hu3hu3
+*/
 
 typedef struct {
     int PID;
@@ -29,10 +31,10 @@ typedef struct {
     int primeiraPag;
     int ultimaPag;
     int memoria;
-}Processo;    
-    
+}Processo;
+
 void inicializarPID() {
-     Pid = 1;    
+     Pid = 1;
 }
 
 int pegarPID() {
