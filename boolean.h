@@ -5,6 +5,9 @@ enum boolean {
     true = 1, false = 0
 };
 // Permitindo a sua declaração como um tipo qualquer:
+
+//não vai funcionar
+
 typedef  enum boolean  bool;
 
 
